@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://your-solution-url.com](https://github.com/kurokurotho/stats.github.io.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://your-live-site-url.com](https://kurokurotho.github.io/stats.github.io/)
 
 ## My process
 
