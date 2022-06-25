@@ -16,7 +16,7 @@ body{
     display: grid;
     width: 40vh;
     grid-template-columns:40vh;
-    grid-template-rows: 248px 500px;
+    grid-template-rows: 248px 530px;
     flex-wrap: wrap;
     margin-bottom: 25%;
     margin-top: 25%;
@@ -108,7 +108,7 @@ span{
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
-        padding: 70px;
+        padding: 48px;
         border-top-left-radius: 10px;
         border-bottom-left-radius:10px ;
       
