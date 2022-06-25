@@ -49,5 +49,5 @@ I used combo of both flexbox and grid in this challenge.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@kurokurotho](https://www.frontendmentor.io/profile/kurokurotho)
 
